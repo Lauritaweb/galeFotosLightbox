@@ -1,0 +1,15 @@
+Mobile
+https://wireframe.cc/wd8Pfe
+
+Tablet
+https://wireframe.cc/lsKvkU
+
+Desktop
+https://wireframe.cc/JQLUnA
+
+************************************************************
+Object fit
+https://developer.mozilla.org/es/docs/Web/CSS/object-fit
+
+Fresco
+https://github.com/staaky/fresco
